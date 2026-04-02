@@ -294,7 +294,6 @@ Openclassroom course HTML CSS Javascript
             <li><strong>Frameworks</strong> : un Frameworks sont des fonctionnalités qui aide les développeurs à travailler plus rapidement , notamment pour des fonctionnalités souvent utilisé dans le javascript comme le react , pour python c'est django et Symfony pour PHP <!-- Renseignez la définition --></li>
         </ul>
     </section>
-
-   <script src="script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
